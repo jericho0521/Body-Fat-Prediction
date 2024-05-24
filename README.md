@@ -1,29 +1,35 @@
-**Phase 1: Data Analysis**
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-**Objectives:**
+This project demonstrates the potential of using simple, non-invasive measurements to accurately estimate body fat percentage, offering a practical tool for both clinical and personal use. Future work will focus on expanding the dataset to include more diverse populations and exploring the integration of machine learning techniques to further enhance predictive performance.
 
-**a)	Data Collection:** 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The data came from a csv file where we found its data from the Internet to research the factors of people's body fat. We would then use said data to analyse and predict body fat.
 
-**b)	Data Preparation:** 
 
-To clean and remove unwanted data and redundant values so that it is useable for data analysis.
+### Built With
 
-**c)	Data Exploration:** 
+* Google Collab (Jupyter Notebook)
+* Python
 
-To use plots to visualise the data and find the unseen trends from the given data.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Phase 2: Data Mining and Prediction** 
 
-**a)	Data Modelling: **
+<!-- USAGE EXAMPLES -->
+## Usage
 
-To use machine learning algorithms and make predictions of body fat using training data and test data.
+1. Head to **Body Fat file**
+2. Click on **bodyfat.ipynb** to view
+3. Click on **bodyfat2.ipynb** to view
+4. You can choose to download the file to your Google Collab if you want to edit
+5. Data Source: **bodyfat.csv**
+6. Predicted Results: **body_fat_predict.csv**
 
-**b)	Validating Model:** 
 
-To predict the new dataset using the model.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**c)	Result Interpretation:** 
 
-To analyse and understand the meaning and significance of data that has been collected through research and experimentation.
+
+
+
+
